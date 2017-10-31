@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /dr-peche/wp-admin/
+Allow: /dr-peche/wp-admin/admin-ajax.php

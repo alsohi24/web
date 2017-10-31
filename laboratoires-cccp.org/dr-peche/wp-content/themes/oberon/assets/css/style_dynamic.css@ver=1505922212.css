@@ -1,0 +1,297 @@
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/assets/custom-styles/general-custom-styles.php oberon_edge_design_styles function */
+.edgtf-preload-background { background-image: url(https://laboratoires-cccp.org/dr-peche/wp-content/themes/oberon/assets/img/preload_pattern.png) !important;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/assets/custom-styles/general-custom-styles.php oberon_edge_design_styles function */
+body { font-family: Dosis;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/assets/custom-styles/general-custom-styles.php oberon_edge_design_styles function */
+.edgtf-wrapper-inner, .edgtf-full-width, .edgtf-content, .edgtf-content-inner > .edgtf-container { background-color: #ffffff;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/assets/custom-styles/general-custom-styles.php oberon_edge_design_styles function */
+.edgtf-call-to-action, .edgtf-message, .edgtf-process-holder .edgtf-process-item-holder.edgtf-pi-highlighted .edgtf-pi-number-holder, .edgtf-process-holder .edgtf-process-item-holder:hover .edgtf-pi-number-holder, .edgtf-accordion-holder .edgtf-title-holder.ui-state-active, .edgtf-accordion-holder .edgtf-title-holder.ui-state-hover, .edgtf-accordion-holder.edgtf-style-grey .edgtf-title-holder.ui-state-active, .edgtf-accordion-holder.edgtf-style-grey .edgtf-title-holder.ui-state-hover, .edgtf-accordion-holder.edgtf-style-white .edgtf-title-holder.ui-state-active, .edgtf-accordion-holder.edgtf-style-white .edgtf-title-holder.ui-state-hover, .edgtf-blog-holder article.format-link .edgtf-post-content, .edgtf-blog-holder article.format-quote .edgtf-post-content, .edgtf-blog-holder.edgtf-blog-single article.format-link .edgtf-post-text, .edgtf-blog-holder.edgtf-blog-single article.format-quote .edgtf-post-text, .edgtf-blog-holder.edgtf-blog-single article.format-link:hover .edgtf-post-text, .edgtf-blog-holder.edgtf-blog-single article.format-quote:hover .edgtf-post-text { background-color: #ffffff;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/assets/custom-styles/general-custom-styles.php oberon_edge_design_styles function */
+.edgtf-message { border-color: #ffffff;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/assets/custom-styles/general-custom-styles.php oberon_edge_design_styles function */
+::selection { background: #e819d3;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/assets/custom-styles/general-custom-styles.php oberon_edge_design_styles function */
+::-moz-selection { background: #e819d3;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/assets/custom-styles/general-custom-styles.php oberon_edge_design_styles function */
+.edgtf-boxed .edgtf-wrapper { background-attachment: fixed;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/assets/custom-styles/general-custom-styles.php oberon_edge_h1_styles function */
+h1 { color: #000000;font-family: Dosis;font-size: 30px;font-style: normal;font-weight: 800;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/assets/custom-styles/general-custom-styles.php oberon_edge_h2_styles function */
+h2 { color: #000000;font-family: Dosis;font-size: 28px;text-transform: none;font-style: normal;font-weight: 600;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/assets/custom-styles/general-custom-styles.php oberon_edge_h3_styles function */
+h3 { color: #000000;font-family: Dosis;font-size: 26px;text-transform: none;font-style: normal;font-weight: 500;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/assets/custom-styles/general-custom-styles.php oberon_edge_h4_styles function */
+h4 { color: #020202;font-family: Dosis;font-size: 24px;text-transform: none;font-style: normal;font-weight: 500;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/assets/custom-styles/general-custom-styles.php oberon_edge_h5_styles function */
+h5 { color: #000000;font-family: Dosis;font-size: 20px;line-height: 26px;text-transform: none;font-style: normal;font-weight: 500;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/assets/custom-styles/general-custom-styles.php oberon_edge_h6_styles function */
+h6 { color: #000000;font-family: Dosis;font-size: 18px;text-transform: none;font-style: normal;font-weight: 500;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/assets/custom-styles/general-custom-styles.php oberon_edge_text_styles function */
+p { color: #000000;font-family: Dosis;font-size: 16px;text-transform: none;font-style: normal;font-weight: 400;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/assets/custom-styles/general-custom-styles.php oberon_edge_link_styles function */
+a, p a { color: #e874dc;font-style: normal;font-weight: 600;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/assets/custom-styles/general-custom-styles.php oberon_edge_link_hover_styles function */
+a:hover, p a:hover { color: #e819d3;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/assets/custom-styles/general-custom-styles.php oberon_edge_link_hover_styles function */
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover { color: #e819d3;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/header/custom-styles/header.php oberon_edge_header_standard_menu_area_styles function */
+.edgtf-header-standard .edgtf-page-header .edgtf-menu-area { background-color: rgba(212, 212, 214, 0);}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/header/custom-styles/header.php oberon_edge_header_full_screen_menu_area_styles function */
+.edgtf-header-full-screen .edgtf-menu-area > .edgtf-vertical-align-containers { padding: 0 62px;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/header/custom-styles/header.php oberon_edge_header_full_screen_menu_area_styles function */
+.edgtf-header-full-screen .edgtf-sticky-holder > .edgtf-vertical-align-containers { padding: 0 62px;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/header/custom-styles/header.php oberon_edge_sticky_header_styles function */
+.edgtf-main-menu.edgtf-sticky-nav > ul > li > a { color: #23232d;font-family: Dosis;font-size: 16px;text-transform: uppercase;font-style: normal;font-weight: 400;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/header/custom-styles/header.php oberon_edge_sticky_header_styles function */
+.edgtf-main-menu.edgtf-sticky-nav > ul > li:hover > a, .edgtf-main-menu.edgtf-sticky-nav > ul > li.edgtf-active-item:hover > a, body:not(.edgtf-menu-item-first-level-bg-color) .edgtf-main-menu.edgtf-sticky-nav > ul > li:hover > a, body:not(.edgtf-menu-item-first-level-bg-color) .edgtf-main-menu.edgtf-sticky-nav > ul > li.edgtf-active-item:hover > a { color: #e800d0;}
+
+            .edgtf-main-menu.edgtf-default-nav > ul > li > a,
+            .edgtf-page-header #lang_sel > ul > li > a,
+            .edgtf-page-header #lang_sel_click > ul > li > a,
+            .edgtf-page-header #lang_sel ul > li:hover > a{
+             color: #23232d;                             font-family: 'Dosis', sans-serif;
+                         font-size: 18px;              font-style: normal;              font-weight: 600;              text-transform: uppercase;                          }
+        
+                    .edgtf-page-header #lang_sel_list{
+            font-family: 'Dosis', sans-serif !important;
+            }
+        
+                    .edgtf-main-menu.edgtf-default-nav > ul > li:hover > a,
+            .edgtf-main-menu.edgtf-default-nav > ul > li.edgtf-active-item:hover > a,
+            body:not(.edgtf-menu-item-first-level-bg-color) .edgtf-main-menu.edgtf-default-nav > ul > li:hover > a,
+            body:not(.edgtf-menu-item-first-level-bg-color) .edgtf-main-menu.edgtf-default-nav > ul > li.edgtf-active-item:hover > a,
+            .edgtf-page-header #lang_sel ul li a:hover,
+            .edgtf-page-header #lang_sel_click > ul > li a:hover{
+            color: #e819d3 !important;
+            }
+        
+                    .edgtf-main-menu.edgtf-default-nav > ul > li.edgtf-active-item > a,
+            body:not(.edgtf-menu-item-first-level-bg-color) .edgtf-main-menu.edgtf-default-nav > ul > li.edgtf-active-item > a{
+            color: #e819d3;
+            }
+        
+        
+	            
+        
+        
+
+        
+        
+                    .edgtf-dark-header .edgtf-main-menu.edgtf-default-nav > ul > li:hover > a,
+            .edgtf-dark-header .edgtf-main-menu.edgtf-default-nav > ul > li.edgtf-active-item:hover > a{
+            color: #23232d !important;
+            }
+        
+                    .edgtf-dark-header .edgtf-main-menu.edgtf-default-nav > ul > li.edgtf-active-item > a{
+            color: #e819d3;
+            }
+        
+        
+        
+        
+        
+        
+                
+        
+                    .edgtf-drop-down .edgtf-menu-second .edgtf-menu-inner > ul > li > a,
+            .edgtf-drop-down .edgtf-menu-second .edgtf-menu-inner > ul > li > h4,
+            .edgtf-drop-down .edgtf-menu-wide .edgtf-menu-second .edgtf-menu-inner > ul > li > h4,
+            .edgtf-drop-down .edgtf-menu-wide .edgtf-menu-second .edgtf-menu-inner > ul > li > a,
+            .edgtf-drop-down .edgtf-menu-wide .edgtf-menu-second ul li ul li.menu-item-has-children > a,
+            .edgtf-drop-down .edgtf-menu-wide .edgtf-menu-second .edgtf-menu-inner ul li.edgtf-sub ul li.menu-item-has-children > a,
+            .edgtf-main-menu.edgtf-default-nav #lang_sel ul li li a,
+            .edgtf-main-menu.edgtf-default-nav #lang_sel_click ul li ul li a,
+            .edgtf-main-menu.edgtf-default-nav #lang_sel ul ul a,
+            .edgtf-main-menu.edgtf-default-nav #lang_sel_click ul ul a{
+             color: #23232d;                             font-family: 'Dosis', sans-serif !important;
+                         font-size: 16px;                          font-style: normal;              font-weight: 500;              text-transform: uppercase;                          }
+        
+                    .shopping_cart_dropdown ul li
+            .item_info_holder .item_left a,
+            .shopping_cart_dropdown ul li .item_info_holder .item_right .amount,
+            .shopping_cart_dropdown .cart_bottom .subtotal_holder .total,
+            .shopping_cart_dropdown .cart_bottom .subtotal_holder .total_amount{
+            color: #23232d;
+            }
+        
+                    .edgtf-drop-down .edgtf-menu-second .edgtf-menu-inner > ul > li:hover > a,
+            .edgtf-drop-down .edgtf-menu-wide .edgtf-menu-second ul li ul li.menu-item-has-children:hover > a,
+            .edgtf-drop-down .edgtf-menu-wide .edgtf-menu-second .edgtf-menu-inner ul li.edgtf-sub ul li.menu-item-has-children:hover > a,
+            .edgtf-main-menu.edgtf-default-nav #lang_sel ul li li:hover a,
+            .edgtf-main-menu.edgtf-default-nav #lang_sel_click ul li ul li:hover a,
+            .edgtf-main-menu.edgtf-default-nav #lang_sel ul li:hover > a,
+            .edgtf-main-menu.edgtf-default-nav #lang_sel_click ul li:hover > a{
+            color: #fbbfff !important;
+            }
+        
+                    .edgtf-drop-down li:not(.edgtf-menu-wide) .edgtf-menu-second .edgtf-menu-inner > ul > li:hover{
+            background-color: #e800d0;
+            }
+        
+        
+                    .edgtf-drop-down .edgtf-menu-wide .edgtf-menu-second .edgtf-menu-inner > ul > li > a{
+             color: #23232d;                             font-family: 'Dosis', sans-serif !important;
+                         font-size: 16px;                          font-style: normal;              font-weight: 500;              text-transform: uppercase;                          }
+        
+                    .edgtf-drop-down .edgtf-menu-wide .edgtf-menu-second .edgtf-menu-inner > ul > li:hover > a {
+            color: #fbbfff !important;
+            }
+        
+                    .edgtf-drop-down .edgtf-menu-wide .edgtf-menu-second .edgtf-menu-inner > ul > li:hover > a{
+            background-color: #e800d0            }
+        
+        
+                    .edgtf-drop-down .edgtf-menu-second .edgtf-menu-inner ul li.edgtf-sub ul li a{
+             color: #23232d;                              font-family: 'Dosis', sans-serif;
+                         font-size: 16px;                           font-style: normal;                font-weight: 500;               text-transform: uppercase;                          }
+                            .edgtf-drop-down .edgtf-menu-second .edgtf-menu-inner ul li.edgtf-sub ul li:hover > a,
+            .edgtf-drop-down .edgtf-menu-second .edgtf-menu-inner ul li ul li:hover > a{
+            color: #fbbfff !important;
+            }
+        
+                    .edgtf-drop-down .edgtf-menu-second .edgtf-menu-inner ul li.edgtf-sub ul li:hover,
+            .edgtf-drop-down .edgtf-menu-second .edgtf-menu-inner ul li ul li:hover{
+            background-color: #e800d0;
+            }
+        
+                    .edgtf-drop-down .edgtf-menu-wide .edgtf-menu-second .edgtf-menu-inner ul li.edgtf-sub ul li a,
+            .edgtf-drop-down .edgtf-menu-wide .edgtf-menu-second ul li ul li a{
+             color: #23232d;                              font-family: 'Dosis', sans-serif;
+                         font-size: 16px;                           font-style: normal;                font-weight: 500;               text-transform: uppercase;                          }
+                            .edgtf-drop-down .edgtf-menu-wide .edgtf-menu-second .edgtf-menu-inner ul li.edgtf-sub ul li) > a:hover,
+            .edgtf-drop-down .edgtf-menu-wide .edgtf-menu-second .edgtf-menu-inner ul li ul li > a:hover{
+            color: #fbbfff !important;
+            }
+        
+                    .edgtf-drop-down .edgtf-menu-wide .edgtf-menu-second .edgtf-menu-inner ul li.edgtf-sub ul li:hover,
+            .edgtf-drop-down .edgtf-menu-wide .edgtf-menu-second .edgtf-menu-inner ul li ul li:hover{
+            background-color: #e800d0;
+            }
+        /* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/header/custom-styles/mobile-header.php oberon_edge_mobile_header_general_styles function */
+.edgtf-mobile-header .edgtf-mobile-header-inner { height: 60px;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/header/custom-styles/mobile-header.php oberon_edge_mobile_navigation_styles function */
+.edgtf-mobile-header .edgtf-mobile-nav a, .edgtf-mobile-header .edgtf-mobile-nav h4 { color: #23232d;font-family: Dosis;font-size: 14px;text-transform: uppercase;font-style: normal;font-weight: 400;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/header/custom-styles/mobile-header.php oberon_edge_mobile_navigation_styles function */
+.edgtf-mobile-header .edgtf-mobile-nav a:hover, .edgtf-mobile-header .edgtf-mobile-nav h4:hover { color: #e851d8;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/header/custom-styles/mobile-header.php oberon_edge_mobile_logo_styles function */
+.edgtf-mobile-header .edgtf-mobile-logo-wrapper a { max-height: 54px;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/passepartout/custom-styles/passepartout.php oberon_edge_passepartout_styles function */
+.edgtf-passepartout .edgtf-passepartout-left, .edgtf-passepartout .edgtf-passepartout-right, .edgtf-passepartout .edgtf-passepartout-top, .edgtf-passepartout .edgtf-passepartout-bottom { background-color: #ffffff;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/search/custom-styles/search.php oberon_edge_search_opener_icon_size function */
+.edgtf-search-opener, .edgtf-header-standard .edgtf-search-opener { font-size: 18px;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/search/custom-styles/search.php oberon_edge_search_opener_icon_colors function */
+.edgtf-dark-header .edgtf-page-header > div:not(.edgtf-sticky-header) .edgtf-search-opener,
+			.edgtf-dark-header.edgtf-header-style-on-scroll .edgtf-page-header .edgtf-search-opener,
+			.edgtf-dark-header .edgtf-top-bar .edgtf-search-opener { color: #23232d !important;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/search/custom-styles/search.php oberon_edge_search_opener_icon_colors function */
+.edgtf-dark-header .edgtf-page-header > div:not(.edgtf-sticky-header) .edgtf-search-opener:hover,
+			.edgtf-dark-header.edgtf-header-style-on-scroll .edgtf-page-header .edgtf-search-opener:hover,
+			.edgtf-dark-header .edgtf-top-bar .edgtf-search-opener:hover { color: #e819d3 !important;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/search/custom-styles/search.php oberon_edge_search_opener_text_styles function */
+.edgtf-search-icon-text { color: #000000;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/search/custom-styles/search.php oberon_edge_search_bar_background function */
+.edgtf-search-cover, .edgtf-search-fade .edgtf-fullscreen-search-holder .edgtf-fullscreen-search-table, .edgtf-fullscreen-search-overlay, .edgtf-search-slide-window-top, .edgtf-search-slide-window-top input[type="text"] { background-color: #e851d8;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/search/custom-styles/search.php oberon_edge_search_text_styles function */
+.edgtf-search-slide-window-top input[type="text"]::-webkit-input-placeholder, .edgtf-search-cover input[type="text"]::-webkit-input-placeholder, .edgtf-form-holder .edgtf-search-field::-webkit-input-placeholder, .edgtf-fullscreen-search-opened .edgtf-form-holder .edgtf-search-field::-webkit-input-placeholder { color: #ffffff;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/search/custom-styles/search.php oberon_edge_search_text_styles function */
+.edgtf-search-slide-window-top input[type="text"]:-moz-input-placeholder, .edgtf-search-cover input[type="text"]:-moz-input-placeholder, .edgtf-form-holder .edgtf-search-field:-moz-input-placeholder, edgtf-fullscreen-search-opened .edgtf-form-holder .edgtf-search-field:-moz-input-placeholder { color: #ffffff;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/search/custom-styles/search.php oberon_edge_search_text_styles function */
+.edgtf-search-slide-window-top input[type="text"]::-moz-input-placeholder, .edgtf-search-cover input[type="text"]::-moz-input-placeholder, .edgtf-form-holder .edgtf-search-field::-moz-input-placeholder, edgtf-fullscreen-search-opened .edgtf-form-holder .edgtf-search-field::-moz-input-placeholder { color: #ffffff;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/search/custom-styles/search.php oberon_edge_search_text_styles function */
+.edgtf-search-slide-window-top input[type="text"]:-ms-input-placeholder, .edgtf-search-cover input[type="text"]:-ms-input-placeholder, .edgtf-form-holder .edgtf-search-field:-ms-input-placeholder, edgtf-fullscreen-search-opened .edgtf-form-holder .edgtf-search-field:-ms-input-placeholder { color: #ffffff;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/search/custom-styles/search.php oberon_edge_search_text_styles function */
+.edgtf-search-cover input[type="text"], .edgtf-fullscreen-search-opened .edgtf-form-holder .edgtf-search-field, .edgtf-search-slide-window-top input[type="text"] { color: #ffffff;font-size: 26px;text-transform: uppercase;font-family: Dosis, sans-serif;font-style: normal;font-weight: 700;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/sidearea/custom-styles/sidearea.php oberon_edge_side_area_styles function */
+.edgtf-side-menu, .edgtf-side-area-uncovered-from-content .edgtf-side-menu, .edgtf-side-menu-slide-from-right .edgtf-side-menu { background-color: #f9f9f9;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/sidearea/custom-styles/sidearea.php oberon_edge_side_area_styles function */
+.edgtf-side-menu a.edgtf-close-side-menu span, .edgtf-side-menu a.edgtf-close-side-menu i { color: #000000;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/sidearea/custom-styles/sidearea.php oberon_edge_side_area_title_styles function */
+.edgtf-side-menu-title h4, .edgtf-side-menu-title h5 { color: #23232d;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/sidearea/custom-styles/sidearea.php oberon_edge_side_area_text_styles function */
+.edgtf-side-menu .widget, .edgtf-side-menu .widget.widget_search form, .edgtf-side-menu .widget.widget_search form input[type="text"], .edgtf-side-menu .widget.widget_search form input[type="submit"], .edgtf-side-menu .widget h6, .edgtf-side-menu .widget h6 a, .edgtf-side-menu .widget p, .edgtf-side-menu .widget li a, .edgtf-side-menu .widget.widget_rss li a.rsswidget, .edgtf-side-menu #wp-calendar caption,.edgtf-side-menu .widget li, .edgtf-side-menu h3, .edgtf-side-menu .widget.widget_archive select, .edgtf-side-menu .widget.widget_categories select, .edgtf-side-menu .widget.widget_text select, .edgtf-side-menu .widget.widget_search form input[type="submit"], .edgtf-side-menu #wp-calendar th, .edgtf-side-menu #wp-calendar td, .edgtf-side-menu .q_social_icon_holder i.simple_social { color: #23232d;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/title/custom-styles/title.php oberon_edge_title_area_typography_style function */
+.edgtf-title .edgtf-title-holder h1 { color: #23232d;font-family: Elsie Swash Caps;font-size: 75px;text-transform: capitalize;font-style: normal;font-weight: 700;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/title/custom-styles/title.php oberon_edge_title_area_typography_style function */
+.edgtf-title .edgtf-title-holder .edgtf-subtitle { color: #23232d;font-family: Elsie Swash Caps;font-size: 45px;text-transform: capitalize;font-style: normal;font-weight: 400;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/title/custom-styles/title.php oberon_edge_title_area_typography_style function */
+.edgtf-title .edgtf-title-holder .edgtf-breadcrumbs a, .edgtf-title .edgtf-title-holder .edgtf-breadcrumbs span { color: #23232d;font-family: Dosis;text-transform: capitalize;font-style: normal;font-weight: 400;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/shortcodes/accordions/custom-styles/custom-styles.php oberon_edge_accordions_typography_styles function */
+.edgtf-accordion-holder .edgtf-title-holder { font-family: Dosis;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/shortcodes/accordions/custom-styles/custom-styles.php oberon_edge_accordions_initial_color_styles function */
+.edgtf-accordion-holder .edgtf-title-holder { color: #e874dc;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/shortcodes/accordions/custom-styles/custom-styles.php oberon_edge_accordions_active_color_styles function */
+.edgtf-accordion-holder .edgtf-title-holder.ui-state-active, .edgtf-accordion-holder .edgtf-title-holder.ui-state-hover { color: #e874dc;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/shortcodes/button/custom-styles/custom-styles.php oberon_edge_button_typography_styles function */
+.edgtf-btn { font-family: Dosis;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/shortcodes/button/custom-styles/custom-styles.php oberon_edge_button_outline_styles function */
+.edgtf-btn.edgtf-btn-outline { color: #e874dc;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/shortcodes/button/custom-styles/custom-styles.php oberon_edge_button_solid_styles function */
+.edgtf-btn.edgtf-btn-solid { color: #e874dc;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/shortcodes/button/custom-styles/custom-styles.php oberon_edge_button_transparent_styles function */
+.edgtf-btn.edgtf-btn-transparent { color: #e874dc;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/shortcodes/tabs/custom-styles/custom-styles.php oberon_edge_tabs_typography_styles function */
+.edgtf-tabs .edgtf-tabs-nav li a { font-family: Dosis;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/shortcodes/tabs/custom-styles/custom-styles.php oberon_edge_tabs_inital_color_styles function */
+.edgtf-tabs:not(.edgtf-tab-boxed) .edgtf-tabs-nav li a { color: #e874dc;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/shortcodes/tabs/custom-styles/custom-styles.php oberon_edge_tabs_active_color_styles function */
+.edgtf-tabs:not(.edgtf-tab-boxed) .edgtf-tabs-nav li.ui-state-active a, .edgtf-tabs:not(.edgtf-tab-boxed) .edgtf-tabs-nav li.ui-state-hover a { color: #e874dc;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/shortcodes/tabs/custom-styles/custom-styles.php oberon_edge_boxed_tabs_inital_color_styles function */
+.edgtf-tabs.edgtf-tab-boxed .edgtf-tabs-nav li a { color: #e874dc;}
+
+/* generated in /home/laboratol/www/dr-peche/wp-content/themes/oberon/framework/modules/shortcodes/tabs/custom-styles/custom-styles.php oberon_edge_tabs_boxed_active_color_styles function */
+.edgtf-tabs.edgtf-tab-boxed .edgtf-tabs-nav li.ui-state-active a, .edgtf-tabs.edgtf-tab-boxed .edgtf-tabs-nav li.ui-state-hover a { color: #e874dc;}
+
